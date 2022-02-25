@@ -29,6 +29,8 @@ body {
 .home h5 {
   color: rgb(255, 255, 255);
   position: relative;
+  font-size: 70px;
+  font-family:sans-serif;
 }
 
 .home p {
@@ -41,7 +43,7 @@ body {
 
 #main{
 
-background-color: black;
+background-color: rgb(2, 1, 10);
 
 }
 
